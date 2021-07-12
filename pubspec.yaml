@@ -1,8 +1,8 @@
 name: gradient_progress
 description: A Gradient color support progressbar, fast way to have a beatiful gradient progress in your flutter app.
-version: 0.0.1
-author: ShaunRain <rainamie@gmail.com>
-homepage: https://github.com/ShaunRain
+version: 1.0.0
+author: YEAY Dev Team
+homepage: https://www.yeay.com
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
